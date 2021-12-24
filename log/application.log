@@ -1,0 +1,61 @@
+2021-12-22T12:33:17.364+0530 INFO Starting SpringBootHelloWorldExampleApplication on VNL-MuneesK-L with PID 12416 (D:\spring-boot-hello-world-example\target\classes started by muneesh.kumar in D:\spring-boot-hello-world-example)
+2021-12-22T12:33:17.374+0530 DEBUG Running with Spring Boot v2.2.2.BUILD-SNAPSHOT, Spring v5.2.2.RELEASE
+2021-12-22T12:33:17.382+0530 INFO No active profile set, falling back to default profiles: default
+2021-12-22T12:33:21.057+0530 DEBUG Inside createAndUpdateMobileData()
+2021-12-22T12:33:21.144+0530 INFO Started SpringBootHelloWorldExampleApplication in 4.884 seconds (JVM running for 7.573)
+2021-12-22T12:33:24.971+0530 DEBUG inside runTCPDUmpComand()
+2021-12-22T12:33:24.998+0530 DEBUG Exit function runTCPDUmpComand()
+2021-12-22T12:33:31.734+0530 DEBUG cmd =setenv LD_LIBRARY_PATH=/home/armtest/TESTSETUP/cp/repos/releasePath/r.5.3.11/lib/
+2021-12-22T12:33:38.832+0530 DEBUG cmd =source /home/armtest/TESTSETUP/cp/repos/testStubs/SetEnv.sh
+2021-12-22T12:34:12.028+0530 DEBUG ********************************
+2021-12-22T12:34:25.173+0530 DEBUG ********************************
+2021-12-22T12:35:40.869+0530 INFO Starting SpringBootHelloWorldExampleApplication on VNL-MuneesK-L with PID 18096 (D:\spring-boot-hello-world-example\target\classes started by muneesh.kumar in D:\spring-boot-hello-world-example)
+2021-12-22T12:35:40.874+0530 DEBUG Running with Spring Boot v2.2.2.BUILD-SNAPSHOT, Spring v5.2.2.RELEASE
+2021-12-22T12:35:40.875+0530 INFO No active profile set, falling back to default profiles: default
+2021-12-22T12:35:44.299+0530 DEBUG Inside createAndUpdateMobileData()
+2021-12-22T12:35:44.492+0530 INFO Started SpringBootHelloWorldExampleApplication in 4.417 seconds (JVM running for 7.087)
+2021-12-22T12:35:46.020+0530 DEBUG inside runTCPDUmpComand()
+2021-12-22T12:35:46.040+0530 DEBUG Exit function runTCPDUmpComand()
+2021-12-22T12:35:50.505+0530 DEBUG cmd =setenv LD_LIBRARY_PATH=/home/armtest/TESTSETUP/cp/repos/releasePath/r.5.3.11/lib/
+2021-12-22T12:35:52.756+0530 DEBUG cmd =source /home/armtest/TESTSETUP/cp/repos/testStubs/SetEnv.sh
+2021-12-22T12:36:13.504+0530 DEBUG ********************************
+2021-12-22T12:36:27.843+0530 DEBUG ********************************
+2021-12-22T12:36:42.754+0530 DEBUG 
+2021-12-22T12:36:51.726+0530 DEBUG 
+2021-12-22T12:36:58.084+0530 DEBUG ********************************
+2021-12-22T12:37:11.729+0530 DEBUG ********************************
+2021-12-22T12:37:29.263+0530 DEBUG 
+2021-12-22T12:38:25.775+0530 INFO Starting SpringBootHelloWorldExampleApplication on VNL-MuneesK-L with PID 18608 (D:\spring-boot-hello-world-example\target\classes started by muneesh.kumar in D:\spring-boot-hello-world-example)
+2021-12-22T12:38:25.781+0530 DEBUG Running with Spring Boot v2.2.2.BUILD-SNAPSHOT, Spring v5.2.2.RELEASE
+2021-12-22T12:38:25.789+0530 INFO No active profile set, falling back to default profiles: default
+2021-12-22T12:38:29.111+0530 DEBUG Inside createAndUpdateMobileData()
+2021-12-22T12:38:29.176+0530 INFO Started SpringBootHelloWorldExampleApplication in 4.362 seconds (JVM running for 7.041)
+2021-12-22T12:38:30.080+0530 DEBUG inside runTCPDUmpComand()
+2021-12-22T12:38:30.092+0530 DEBUG Exit function runTCPDUmpComand()
+2021-12-22T12:38:30.656+0530 DEBUG cmd =setenv LD_LIBRARY_PATH=/home/armtest/TESTSETUP/cp/repos/releasePath/r.5.3.11/lib/
+2021-12-22T12:38:31.118+0530 DEBUG cmd =source /home/armtest/TESTSETUP/cp/repos/testStubs/SetEnv.sh
+2021-12-22T12:38:38.825+0530 DEBUG ********************************
+2021-12-22T12:38:44.555+0530 DEBUG ********************************
+2021-12-22T12:38:46.575+0530 DEBUG 
+2021-12-22T12:38:51.541+0530 DEBUG 
+2021-12-22T12:38:55.462+0530 DEBUG ********************************
+2021-12-22T12:39:17.643+0530 INFO Starting SpringBootHelloWorldExampleApplication on VNL-MuneesK-L with PID 13824 (D:\spring-boot-hello-world-example\target\classes started by muneesh.kumar in D:\spring-boot-hello-world-example)
+2021-12-22T12:39:17.650+0530 DEBUG Running with Spring Boot v2.2.2.BUILD-SNAPSHOT, Spring v5.2.2.RELEASE
+2021-12-22T12:39:17.660+0530 INFO No active profile set, falling back to default profiles: default
+2021-12-22T12:39:21.149+0530 DEBUG Inside createAndUpdateMobileData()
+2021-12-22T12:39:21.232+0530 INFO Started SpringBootHelloWorldExampleApplication in 4.523 seconds (JVM running for 7.234)
+2021-12-22T12:39:22.404+0530 DEBUG inside runTCPDUmpComand()
+2021-12-22T12:39:22.425+0530 DEBUG Exit function runTCPDUmpComand()
+2021-12-22T12:39:22.688+0530 DEBUG cmd =setenv LD_LIBRARY_PATH=/home/armtest/TESTSETUP/cp/repos/releasePath/r.5.3.11/lib/
+2021-12-22T12:39:23.013+0530 DEBUG cmd =source /home/armtest/TESTSETUP/cp/repos/testStubs/SetEnv.sh
+2021-12-22T12:39:28.924+0530 DEBUG ********************************
+2021-12-22T12:39:31.563+0530 DEBUG ********************************
+2021-12-22T12:39:34.582+0530 DEBUG 
+2021-12-22T12:39:37.492+0530 DEBUG 
+2021-12-22T12:39:40.834+0530 DEBUG ********************************
+2021-12-22T12:39:54.631+0530 DEBUG ********************************
+2021-12-22T12:40:12.716+0530 DEBUG 
+2021-12-22T12:40:13.894+0530 DEBUG Inside createAndUpdateMobileData()
+2021-12-23T15:00:32.152+0530 INFO Starting SpringBootHelloWorldExampleApplication on VNL-MuneesK-L with PID 15832 (D:\spring-boot-hello-world-example\target\classes started by muneesh.kumar in D:\spring-boot-hello-world-example)
+2021-12-23T15:00:32.198+0530 INFO No active profile set, falling back to default profiles: default
+2021-12-23T15:00:36.529+0530 INFO Started SpringBootHelloWorldExampleApplication in 5.456 seconds (JVM running for 8.401)
